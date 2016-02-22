@@ -39912,7 +39912,7 @@ b.y;a.z=c.accelerationIncludingGravity.z-b.z},!0)}function h(d){e.push("deviceor
 var Promise = require('bluebird'),
 	peer,
 	connection,
-	PeerJSKey = 'jf8eqojt9hsq0k9';
+	PeerJSKey = '';
 
 alert('src/libs/remote-device/puppet.js :: Add your own PeerJS api key');
 
