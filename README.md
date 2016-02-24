@@ -34,4 +34,4 @@ Clone the Theater repo, fire it up and wait for it to ask you to open up a webRT
 Don't forget to get your own PeerJS api key and add it to /src/libs/remote-device/puppet.js
 
 ### Demo
-[http://remote-device-puppet.surge.sh/](http://remote-device-puppet.surge.sh/)
+[http://remote-device-theater.surge.sh/](http://remote-device-theater.surge.sh/)
