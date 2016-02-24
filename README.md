@@ -20,7 +20,7 @@ The Theater expects a webRTC enabled browser to establish a p2p connection (this
 * CSS
 * HTML
 * Browserify
-* Reactify (for JSX and ES6 syntax)
+* Reactify (for JSX)
 * npm (package manager and task runner)
 
 ### Build & Run
@@ -31,7 +31,7 @@ npm run serve 8081
 ```
 Clone the Theater repo, fire it up and wait for it to ask you to open up a webRTC enabled browser to: http://localhost:8081/dist/
 
-Don't forget to get your own PeerJS api key and add it to /src/libs/remote-device/theater.js
+Don't forget to get your own PeerJS api key and add it to /src/libs/remote-device/puppet.js
 
 ### Demo
 [http://remote-device-puppet.surge.sh/](http://remote-device-puppet.surge.sh/)
